@@ -1,0 +1,19 @@
+{
+  "name": "backendii",
+  "version": "1.0.0",
+  "description": "BackEnd2 first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharedordaz/backendII.git"
+  },
+  "author": "sharedordaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharedordaz/backendII/issues"
+  },
+  "homepage": "https://github.com/sharedordaz/backendII#readme"
+}
